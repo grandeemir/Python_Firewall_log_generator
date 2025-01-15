@@ -1,0 +1,30 @@
+İşlem Türlerine Göre Dağılım:
+DENY: 313
+BLOCK: 355
+ALLOW: 332
+
+En Çok 'BLOCK' Alan IP Adresleri:
+11.47.227.118: 1 kez
+49.9.84.53: 1 kez
+19.94.215.219: 1 kez
+33.126.250.116: 1 kez
+130.102.123.208: 1 kez
+
+Protokole Göre Trafik Analizi:
+UDP: 351
+ICMP: 322
+TCP: 327
+
+En Sık Kullanılan Kaynak IP'ler:
+206.213.188.66: 1 kez
+11.47.227.118: 1 kez
+127.6.203.43: 1 kez
+49.9.84.53: 1 kez
+19.94.215.219: 1 kez
+
+En Sık Kullanılan Hedef IP'ler:
+223.226.250.28: 1 kez
+169.104.241.171: 1 kez
+80.62.148.131: 1 kez
+191.232.23.214: 1 kez
+1.237.251.26: 1 kez

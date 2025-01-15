@@ -1,0 +1,7 @@
+Şüpheli Davranış Tespiti
+
+Çok Fazla 'BLOCK' Alan Şüpheli IP Adresleri:
+Hiçbir IP belirtilen eşik değerini aşmadı.
+
+Tekrarlayan Bağlantı Denemeleri:
+Hiçbir bağlantı çifti belirtilen eşik değerini aşmadı.
